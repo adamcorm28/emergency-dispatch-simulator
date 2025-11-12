@@ -6,6 +6,12 @@ This system uses the [Higgs audio understanding and generation models](https://w
 
 ![alt text](./assets/image2.png)
 
+## Team Members
+[Nic Bolton](https://github.com/bolst)
+[Adam Cormier](https://github.com/adamcorm28)
+[Rishi Dinesh](https://github.com/RishiDinesh)
+[Shiv Gupta](https://github.com/shiv24)
+
 ## Demo Video
 🎥 [Watch the demo on Loom](https://www.loom.com/share/2bdf0ff746214a38a0281b41a148f46a)
 
